@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\ConsoleApp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8655FC12-1DF6-4451-8732-EF6DAF678877}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\srikanthpa.datamarshall\\source\\repos\\consoleapp6\\consoleapp6\\consoleapp6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8655FC12-1DF6-4451-8732-EF6DAF678877}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\consoleapp6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApp6",
+              "DocumentMoniker": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp6\\ConsoleApp6.csproj",
+              "ToolTip": "C:\\Users\\srikanthpa.DATAMARSHALL\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+              "RelativeToolTip": "ConsoleApp6\\ConsoleApp6.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T21:13:11.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
